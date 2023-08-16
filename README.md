@@ -27,7 +27,7 @@
 ---
 <div align="center">
 <p>Thank you for your visit, if you have any feedback for me it means a lot to me, please visit the comment below 👇 :</p>
- <a href="https://github.com/Azpjago/Azpjago/issues/1"><img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" style="width: 100px; height: 50px;" alt="Guest book"></a>
+ <a href="https://github.com/Azpjago/Azpjago/issues/1"><img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" style="width: 250px; height: 150px;" alt="Guest book"></a>
 </div>
 
 <br>
