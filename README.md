@@ -22,7 +22,7 @@
 <p>
   <a href="mailto:azp.jago@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/asep-saepul-anwar-datascience/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/rachelmartam"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.instagram.com/azp_spl26"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 
 ---
 <div align="center">
